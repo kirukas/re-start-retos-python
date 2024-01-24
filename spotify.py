@@ -1,8 +1,7 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 
-YOUR_APP_CLIENT_ID ="ed04d8046a64470f84d9a46838db0be0"
-YOUR_APP_CLIENT_SECRET="fbfe7d14998f4e49958fee7108e21638"
+
 SONGS = 10
 
 artis = input("artista:   ")
